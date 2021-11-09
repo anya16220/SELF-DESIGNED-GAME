@@ -1,0 +1,10 @@
+1. Characters:- Street Racer *Player*, Police *multiplayer/ Computer*
+2. Story:- Police chasin the SR trying to catch it
+3. Goal:- Running away from police and taking stolen gold to the safe spot
+4. Rules:- The amount of time taken by the player to complete the level reduces to a specific time limit the next level unlocks. 
+5. Feedback:- Sounds, Scores, Good and bad comments to motivate the player.
+6. Balance:- 
+7. Adaptivity/ change or difficulty of levels:- Specific time limit to unlock the next level, The difficulty of levels increases
+ by decreasing the amount of fuel, or damage to the car.
+8. Chance vs Skill:- 
+9. Destinations:- SR's safe spot, and The time police catches the SR, Background locations for different levels.
